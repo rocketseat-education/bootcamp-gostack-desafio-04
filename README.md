@@ -33,7 +33,7 @@ class PostList extends Component {
       {
         id: 1,
         author: {
-          name: 'Diego Fernandes',
+          name: 'Julio Alcantara',
           avatar: 'http://url-da-imagem.com/imagem.jpg'
         },
         date: '04 Jun 2019',
