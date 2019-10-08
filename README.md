@@ -14,7 +14,7 @@ O layout não precisa ficar exatamente igual, você pode utilizar sua criativida
 
 O mais importante é que todos elementos apareçam em tela.
 
-O layout da aplicação está em [nesse link](assets-desafio/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
+O layout da aplicação está [nesse link](assets-desafio/layout.sketch) que pode ser aberto por essa ferramenta gratuita e online: https://www.figma.com/
 
 ## Componentes
 
