@@ -6,7 +6,7 @@
   Desafio 4: Introdução ao React
 </h3>
 
-<blockquote align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
+<p align="center">“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-04?color=%2304D361">
